@@ -46,6 +46,6 @@ This project simulates a **PID (Proportional-Integral-Derivative) controller** f
 ## Author
 **Bishal Paul** – ECE Student
 
-- GitHub: [https://github.com/Bisha18/PID_Controller](#)
+- GitHub: [https://github.com/Bisha18/PID_Based_Temperature_Controller.git](#)
 - Email: d.bishalpaul@gmail.com
 
